@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyongaboemmy" alt="niyongaboemmy" /></a> </p>
 
-- 🔭 I’m currently working on **REB MIS**
+- 🔭 I’m currently working on **IRIMS FOR RWANDA FDA**
 
 - 📫 How to reach me **eniyongabo@rwandafda.gov.rw**
 
