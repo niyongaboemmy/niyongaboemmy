@@ -106,11 +106,19 @@ const emmanuel = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niyongaboemmy&theme=tokyonight&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Multi-Language](https://img.shields.io/badge/🏆_Multi--Language-10%2B_Languages-FFD700?style=for-the-badge&labelColor=1a1b27)
+![Full Stack](https://img.shields.io/badge/🥇_Full_Stack-Frontend_%26_Backend-FFD700?style=for-the-badge&labelColor=1a1b27)
+![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-ML_%26_LLM_APIs-00BFA6?style=for-the-badge&labelColor=1a1b27)
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-Active_Contributor-00BFA6?style=for-the-badge&labelColor=1a1b27)
+
+![GovTech](https://img.shields.io/badge/🏛️_GovTech-NESA_%7C_Rwanda_FDA-4FC3F7?style=for-the-badge&labelColor=1a1b27)
+![Cloud Ready](https://img.shields.io/badge/☁️_Cloud_Ready-Docker_%7C_NGINX-4FC3F7?style=for-the-badge&labelColor=1a1b27)
+![UI Designer](https://img.shields.io/badge/🎨_UI_Designer-Figma_%7C_Adobe_XD-FF79C6?style=for-the-badge&labelColor=1a1b27)
+![Mobile Dev](https://img.shields.io/badge/📱_Mobile_Dev-React_Native_%7C_Android-FF79C6?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
