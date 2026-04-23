@@ -110,7 +110,7 @@ const emmanuel = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niyongaboemmy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=niyongaboemmy&theme=tokyonight&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
